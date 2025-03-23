@@ -1,0 +1,24 @@
+{
+  "name": "lucky-cat-bot",
+  "version": "1.0.0",
+  "description": "A fun, fortune-themed Discord bot that lets users test their luck with random rewards, fortune cookies, and adorable themed prizes.",
+  "main": "luckycat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxisaa/lucky-cat-bot.git"
+  },
+  "keywords": [],
+  "author": "mai",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mxisaa/lucky-cat-bot/issues"
+  },
+  "homepage": "https://github.com/mxisaa/lucky-cat-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
